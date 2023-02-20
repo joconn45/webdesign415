@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* font-family: rival-sans,sans-serif;
+  font-weight: 800;
+  font-style: italic; */
+  background-color: #FCF2E5;
+}
+.ten{
+  font-size: 150px;
+  color: #5FA1DE;
+}
+.text{
+  margin-left: -0.35em;
+  font-size: 70px;
+  color: #3F6991;
+  text-align: right;
+  font-family: tzimmes, serif;
+  font-weight: 900;
+  font-style: normal;
+  background-color: transparent;
+}
+h2{
+  color: #5FA1DE;
+  font-family: odile, serif;
+  font-weight: 900;
+  font-style: normal;
+  margin-top: 50px;
+}
+p{
+  margin-top: 20px;
+  color: #29445E;
+  font-family: odile, serif;
+  font-weight: 100;
+  font-style: normal;
+  color: #29445E;
+}
+small{
+  margin-top: 20px;
+  color: #29445E;
+  font-family: odile, serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #29445E;
+}
+.bold{
+  font-family: tzimmes, serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.small{
+  display: flex;
+  color: #29445E;
+}
+.left{
+  float: left;
+  flex:1;
+}
+.right{
+  float: left;
+  margin-left: 180px;
+  flex:1;
+}
+.title1{
+  padding-left: 200px;
+  text-align: left;
+  font-family: tzimmes, serif;
+  font-weight: 800;
+  font-style: italic;
+}
+.title2{
+  padding-right: 200px;
+  text-align: right;
+  font-family: tzimmes, serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 70px;
+  color: #3F6991;
+}
+.content{
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 20px;
+  margin-bottom: 100px;
+}
